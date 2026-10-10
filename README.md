@@ -37,6 +37,10 @@ This repository hosts the release builds and is the update feed the app checks. 
 | ![Overlay settings](docs/screenshots/overlay-settings.png) | ![Quick Reference](docs/screenshots/quick-reference.png) |
 | **Overlay settings.** Where the HUD goes, how it looks, which cards and pop-ups show, and activity presets. | **Quick Reference.** Faction weaknesses, how each mission type awards rotations, planet resources and relic refinement odds. |
 
+**Where resources come from.** Planet drops come with the best nodes to farm. For everything the drop tables don't cover (Duviri drops like Pathos Clamp, open-world mining and fishing, Necralisk tokens, cut gems, conservation tags, Eidolon and Archon Shards, Railjack materials), the Codex says where it comes from, mostly from the Warframe Wiki with a link to the full page, and what you still need it for.
+
+![Pathos Clamp in the Codex: rewarded upon defeating the Orowyrm in Duviri, and still needed for Kullervo and Rauta](docs/screenshots/resource-sources.png)
+
 Also: Mod Collection, Endo Planner, Build History, Goals, Relics, Quests (with walkthroughs), a daily and weekly Checklist, a Watchlist that notifies you when something you want shows up (a fissure, invasion or alert reward, Baro item, Arbitration, Darvo deal or event), and a Mission Journal of your runs.
 
 ## Install
